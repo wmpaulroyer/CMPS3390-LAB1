@@ -1,0 +1,7 @@
+#ignore executables
+*.out
+*.exe
+#ignore hidden "dot" files
+.*
+#whitelist specific "dot" files
+!.gitignore
