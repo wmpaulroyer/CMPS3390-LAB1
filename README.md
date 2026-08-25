@@ -8,3 +8,4 @@ This is a simple app to learn about the follow:
 - Branching & Merging
 - Push, fetch, and pull
 - Forking & Pull Requests
+- Basic math
