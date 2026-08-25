@@ -7,6 +7,7 @@ int main(){
 
 	cout << "WELCOME TO MY APP!" << endl;
 	cout << "CODING IS AWESOME!" << endl;
+	cout << "MY NAME IS JIMMY!" << endl;
 
 	cout << "The sum is " << x+y << endl;
 
