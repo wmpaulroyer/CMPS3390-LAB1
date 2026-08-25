@@ -10,6 +10,7 @@ int main(){
 	cout << "MY NAME IS JIMMY!" << endl;
 
 	cout << "The sum is " << x+y << endl;
+	cout << "The difference is " << x-y << endl;
 
 	return 0;
 }
