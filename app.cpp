@@ -2,8 +2,14 @@
 using namespace std;
 
 int main(){
+	int x = 10,
+		y = 20;
+
 	cout << "WELCOME TO MY APP!" << endl;
-	cout << "CODING IS FUN!" << endl;
+	cout << "CODING IS AWESOME!" << endl;
+
+	cout << "The sum is " << x+y << endl;
+
 	return 0;
 }
 
